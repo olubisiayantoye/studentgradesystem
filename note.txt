@@ -1,0 +1,10 @@
+All unique requirements for the module have been implemented as specified 
+in the Module Descriptions document.
+
+The README.md file has been populated from the correct template, 
+is located at the root folder of the project, and documents the software created.
+
+Hours spent was accurately reported. You are expected to spend 24 hours every Sprint working on your 
+individual module and other activities. 
+Time spent on the individual module should be at least 12 hours.
+
