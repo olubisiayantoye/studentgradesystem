@@ -1,2 +1,2 @@
-S1000|Samsom John|Computer Studies|68|48|67|61|D
 S1002|Bola William|english|69|50|84|67.6667|D
+S1004|Mary Bob|English|85|98|79|87.3333|B
